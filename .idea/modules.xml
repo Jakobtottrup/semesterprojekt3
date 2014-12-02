@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SemProj/SemProj.iml" filepath="$PROJECT_DIR$/SemProj/SemProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing 5 - Toolbars/Swing 5 - Toolbars.iml" filepath="$PROJECT_DIR$/Swing 5 - Toolbars/Swing 5 - Toolbars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing2 - BorderLayout and Text Areas/Swing2 - Border Layout and textareas.iml" filepath="$PROJECT_DIR$/Swing2 - BorderLayout and Text Areas/Swing2 - Border Layout and textareas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing4 - Toolbars/Swing4 - Toolbars.iml" filepath="$PROJECT_DIR$/Swing4 - Toolbars/Swing4 - Toolbars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing6 - Communication/Swing6 - Communication.iml" filepath="$PROJECT_DIR$/Swing6 - Communication/Swing6 - Communication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwingAPP/SwingAPP.iml" filepath="$PROJECT_DIR$/SwingAPP/SwingAPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video Tutorials - Java Swing.iml" filepath="$PROJECT_DIR$/Video Tutorials - Java Swing.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/uge45/uge45.iml" filepath="$USER_HOME$/Downloads/uge45/uge45.iml" />
+    </modules>
+  </component>
+</project>
+

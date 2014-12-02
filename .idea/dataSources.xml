@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3438548989">
+    <data-source source="LOCAL" name="PostgreSQL - sb3_2014_group_7_db@tek-mmmi-db0a.tek.c.sdu.dk" uuid="e1e3cd8f-5fec-424a-b11e-d2a3b10beb75">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://tek-mmmi-db0a.tek.c.sdu.dk:5432/sb3_2014_group_7_db</jdbc-url>
+      <user-name>sb3_2014_group_7</user-name>
+      <user-password>dfe9dfffdfdedfc7dfdddf92dfdadfed</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="PostgreSQL - tutorials@localhost" uuid="29050337-8f5a-4bd1-b672-ff267048d7d3">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/tutorials</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>df9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="PostgreSQL - semesterprojekt@localhost" uuid="c8fddad3-49fb-476c-b388-e44591e946ad">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/semesterprojekt</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>df9b</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

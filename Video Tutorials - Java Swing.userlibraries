@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="org.postgresql:postgresql:9.2-1002-jdbc4">
+    <archive path="C:/Users/Jakob/Workspaces/Video Tutorials - Java Swing/lib/postgresql-9.2-1002-jdbc4.jar" />
+  </library>
+  <library name="weblaf-complete-1.28">
+    <archive path="C:/Users/Jakob/WebLaF/weblaf-complete-1.28.jar" />
+  </library>
+</eclipse-userlibraries>
+
